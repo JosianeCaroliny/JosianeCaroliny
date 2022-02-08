@@ -18,5 +18,3 @@ Sou uma Desenvolvedora Java Jr. Full Stack autodidata, finalizei o bootcamp da [
   <h4 align="left"> Visitantes </h4>
   <img align="left" src="https://profile-counter.glitch.me/JosianeCaroliny/count.svg">
 </div>
-
-![Snake animation](https://github.com/VitoriaAlric/VitoriaAlric/blob/output/github-contribution-grid-snake.svg) </div>
